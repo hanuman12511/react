@@ -10,6 +10,7 @@ console.log(addcart);
 function orderfun(){
 
   console.log("add");
+  nav("/addres")
   
 }
     return(
