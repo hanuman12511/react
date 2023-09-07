@@ -17,3 +17,26 @@
     width: 200px;
     height: 200px;
 }
+.main-addres-div{
+    width: 100%;
+    
+    height: auto;
+    background-color: rgb(4, 70, 70);
+
+}
+.addres-div{
+    margin: auto;
+    width: 300px;
+    height: auto;
+    background-color: aqua;
+
+    text-align: center;
+    
+}
+
+.addres-div input,button{
+    width: 90%;
+    height: 60px;
+    margin-top: 10px;
+
+}
